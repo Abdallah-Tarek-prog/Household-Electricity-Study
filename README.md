@@ -1,7 +1,7 @@
-# 🏆 Household Electricity Consumption Study
+#  Household Electricity Consumption Study
 ### Statistical Analysis using Probability Theory & Statistical Inference
 
-> **🥇 1st Place — 14th Undergraduate Engineering Mathematics Research Forum (UMRF)**
+> ** 1st Place — 14th Undergraduate Engineering Mathematics Research Forum (UMRF)**
 > Team: **Supercaliprobabilisticexpialidocious**
 
 ---
@@ -36,7 +36,7 @@ The findings provide an empirical foundation for **smart grid optimization**, **
 
 ## Award & Recognition
 
-🏆 **1st Place — 14th Undergraduate Engineering Mathematics Research Forum (UMRF)**
+ **1st Place — 14th Undergraduate Engineering Mathematics Research Forum (UMRF)**
 
 I am honored to share that our team, **Supercaliprobabilisticexpialidocious**, was awarded **1st Place** at the **14th Undergraduate Engineering Mathematics Research Forum (UMRF)**. This milestone reflects long hours, close collaboration, and deep technical commitment from every member of our team.
 
@@ -153,9 +153,9 @@ The study employs **10+ statistical tests** spanning three analytical frameworks
 
 ## Acknowledgements
 
-- 🎓 **Prof. Maha Hassanein** — Supervisor and forum director; special thanks for continuous guidance and support throughout this research journey.
-- 🎓 **Dr. Samah El-Tantawy** — Co-director of the TCCD - Career Center and forum organizer.
-- 🏛️ **TCCD - Career Center** — For organizing the 14th UMRF and creating a platform for undergraduate research excellence.
+-  **Prof. Maha Hassanein** — Supervisor and forum director; special thanks for continuous guidance and support throughout this research journey.
+-  **Dr. Samah El-Tantawy** — Co-director of the TCCD - Career Center and forum organizer.
+-  **TCCD - Career Center** — For organizing the 14th UMRF and creating a platform for undergraduate research excellence.
 
 ---
 
