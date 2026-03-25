@@ -157,23 +157,6 @@ The study employs **10+ statistical tests** spanning three analytical frameworks
 -  **Dr. Samah El-Tantawy** — Co-director of the TCCD - Career Center and forum organizer.
 -  **TCCD - Career Center** — For organizing the 14th UMRF and creating a platform for undergraduate research excellence.
 
----
 
-## CV Description
-
-> **Ready-to-use CV bullet point derived from this project:**
-
----
-
-**Research Project — Household Electricity Consumption Study** *(1st Place, 14th UMRF)*
-*Team: Supercaliprobabilisticexpialidocious*
-
-- Conducted a probabilistic and statistical analysis of **2,075,259 real-world observations** from a household electricity dataset (UCI ML Repository, Sceaux, France, 2006–2010) as part of an undergraduate research team.
-- Applied **10+ statistical tests** across parametric (ANOVA, Welch's t-test, Linear Regression), non-parametric (Kruskal-Wallis, Mann-Whitney U, KS Test), and distribution-fitting frameworks to characterize consumption patterns.
-- Identified that global active power best fits a **Weibull distribution** and uncovered significant seasonal, daily, and hourly consumption patterns.
-- Developed a **Monte Carlo simulation** model generating 100,000 synthetic samples to estimate extreme consumption event probabilities.
-- **Awarded 1st Place** at the **14th Undergraduate Engineering Mathematics Research Forum (UMRF)**, organized by the TCCD - Career Center, under the direction of Prof. Maha Hassanein and Dr. Samah El-Tantawy.
-
----
 
 *"This milestone reflects long hours, close collaboration, and deep technical commitment. I'm excited to keep pushing forward and to turn this momentum into more impactful research."*
