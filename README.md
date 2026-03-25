@@ -1,7 +1,7 @@
 #  Household Electricity Consumption Study
 ### Statistical Analysis using Probability Theory & Statistical Inference
 
-> ** 1st Place — 14th Undergraduate Engineering Mathematics Research Forum (UMRF)**
+> **1st Place — 14th Undergraduate Engineering Mathematics Research Forum (UMRF)**
 > Team: **Supercaliprobabilisticexpialidocious**
 
 ---
